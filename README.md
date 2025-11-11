@@ -9,6 +9,6 @@ This repository is dedicated to storing the **In Class Programming Assignments (
 
 ---
 
-ICP 2 video link: https://drive.google.com/file/d/15K8QxXVwFSXJwxOV96WQddnrJHJYbVSb/view?usp=drive_link
+ICP 2 video link: https://drive.google.com/file/d/1LGSJyljBRj8P-LZNsl2m8fHwCvZJbwjw/view?usp=sharing
 
 ---
