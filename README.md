@@ -8,3 +8,7 @@ This repository is dedicated to storing the **In Class Programming Assignments (
 **Purpose:** Coursework storage and submission.
 
 ---
+
+ICP 2 video link: https://drive.google.com/file/d/15K8QxXVwFSXJwxOV96WQddnrJHJYbVSb/view?usp=drive_link
+
+---
